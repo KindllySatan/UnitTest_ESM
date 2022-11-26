@@ -28,49 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a154db77-511d-4bfc-9a70-97ecfc2afbfb" name="默认的" comment="feature - UnitTest JS 单元测试工具 V1.1.0 版本, 新增区别于 ES6 和 CommonJS 标准的信息输出样式功能, 新增单元测试结果展示功能, 新增返回失败测试案例信息列表功能">
-      <change afterPath="$PROJECT_DIR$/README.zh-CN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/expect.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Bold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Bold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-BoldItalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-BoldItalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-BoldItalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Italic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Italic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Italic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Light-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Light-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-LightItalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-LightItalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-LightItalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/global.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/scripts/linenumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/scripts/prettify/Apache-License-2.0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/scripts/prettify/lang-css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/scripts/prettify/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/styles/jsdoc-default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/styles/prettify-jsdoc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/styles/prettify-tomorrow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/unitTest_ES6.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/示例输出一.png" beforeDir="false" afterPath="$PROJECT_DIR$/README/示例输出一.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/示例输出三.png" beforeDir="false" afterPath="$PROJECT_DIR$/README/示例输出三.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/示例输出二.png" beforeDir="false" afterPath="$PROJECT_DIR$/README/示例输出二.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTest_ES6.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTest_commonJS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/示例输出一.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/示例输出三.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/示例输出二.png" beforeDir="false" />
-    </list>
+    <list default="true" id="a154db77-511d-4bfc-9a70-97ecfc2afbfb" name="默认的" comment="other: 完成工程化;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +87,7 @@
       <workItem from="1629425471296" duration="780000" />
       <workItem from="1629469882175" duration="1269000" />
       <workItem from="1669466821989" duration="2101000" />
-      <workItem from="1669469095847" duration="2769000" />
+      <workItem from="1669469095847" duration="3065000" />
     </task>
     <task id="LOCAL-00001" summary="feature - UnitTest JS 单元测试工具 V1.1.0 版本, 新增区别于 ES6 和 CommonJS 标准的信息输出样式功能, 新增单元测试结果展示功能, 新增返回失败测试案例信息列表功能">
       <created>1629346202945</created>
@@ -138,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629346202945</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="other: 完成工程化;">
+      <created>1669472015210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669472015210</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +135,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feature - UnitTest JS 单元测试工具 V1.1.0 版本, 新增区别于 ES6 和 CommonJS 标准的信息输出样式功能, 新增单元测试结果展示功能, 新增返回失败测试案例信息列表功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature - UnitTest JS 单元测试工具 V1.1.0 版本, 新增区别于 ES6 和 CommonJS 标准的信息输出样式功能, 新增单元测试结果展示功能, 新增返回失败测试案例信息列表功能" />
+    <MESSAGE value="other: 完成工程化;" />
+    <option name="LAST_COMMIT_MESSAGE" value="other: 完成工程化;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629343577962">
