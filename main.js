@@ -12,8 +12,7 @@ const unitTest = function (desc, fun) {
     try {
         fun();  // 执行代理函数
     } catch (err) {
-        // 设置 Node.js 命令行输出样式, \033[30;31m 为设置输出背景为黑色输出字体为红色, \033[0m 为恢复默认样式
-        console.log('\033[30;31m' + `传入参数列表为：${ desc } 的测试 -> 失败 ${ err }` + '\033[0m');
+        console.error(`传入参数列表为：${ desc } 的测试 -> 失败`, err);
         return false;
     }
 
@@ -64,17 +63,17 @@ const expect = function (res, debug) {
  * @param { Boolean } [debug=false] - 是否输出详细的错误堆栈信息
  * @return { Array } 单元测试未通过案例列表
  * */
-const unitTestSet = function (testFun, testList, resultList, debug=false) {
+export const unitTestSet = function (testFun, testList, resultList, debug=false) {
     const testListLen = testList.length;
     const failTestIndexList = [];
 
     for (let num = 0; num < testListLen; num++) {
-        const re = unitTest(`${ testList[num] }`, () => {
+        const testResult = unitTest(`${ testList[num] }`, () => {
             expect(testFun(...testList[num]), debug).toBe(resultList[num]);
         });
 
         // 若测试未通过则记录错误信息
-        if (!re) {
+        if (!testResult) {
             failTestIndexList.push({
                 testIndex: num,
                 testParameter: testList[num],
@@ -89,6 +88,6 @@ const unitTestSet = function (testFun, testList, resultList, debug=false) {
     return failTestIndexList;
 }
 
-module.exports = {
+export default {
     unitTestSet
 }

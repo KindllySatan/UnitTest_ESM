@@ -1,1 +1,10 @@
-test
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+/.idea
+/build
+package-lock.json
+*.npmignore
+out

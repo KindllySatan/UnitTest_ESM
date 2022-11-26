@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -26,51 +29,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a154db77-511d-4bfc-9a70-97ecfc2afbfb" name="默认的" comment="feature - UnitTest JS 单元测试工具 V1.1.0 版本, 新增区别于 ES6 和 CommonJS 标准的信息输出样式功能, 新增单元测试结果展示功能, 新增返回失败测试案例信息列表功能">
-      <change afterPath="$PROJECT_DIR$/.idea/JS_unitTestTool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/expect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Italic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Italic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Italic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Light-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Light-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-LightItalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-LightItalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-LightItalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/global.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/scripts/linenumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/scripts/prettify/Apache-License-2.0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/scripts/prettify/lang-css.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/scripts/prettify/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/styles/jsdoc-default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/styles/prettify-jsdoc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/styles/prettify-tomorrow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/unitTest_ES6.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/示例输出一.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/示例输出三.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/示例输出二.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTest_ES6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unitTest_commonJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/示例输出一.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/示例输出三.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/示例输出二.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.zh-CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/expect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-BoldItalic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-BoldItalic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-BoldItalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Italic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Italic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Light-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Light-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-LightItalic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-LightItalic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-LightItalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fonts/OpenSans-Regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/global.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scripts/linenumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scripts/prettify/Apache-License-2.0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scripts/prettify/lang-css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/scripts/prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/styles/jsdoc-default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/styles/prettify-jsdoc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/styles/prettify-tomorrow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/unitTest_ES6.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/示例输出一.png" beforeDir="false" afterPath="$PROJECT_DIR$/README/示例输出一.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/示例输出三.png" beforeDir="false" afterPath="$PROJECT_DIR$/README/示例输出三.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/示例输出二.png" beforeDir="false" afterPath="$PROJECT_DIR$/README/示例输出二.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTest_ES6.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTest_commonJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/示例输出一.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/示例输出三.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/示例输出二.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jupmlcha" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1wtUsoxQDVrvXDMsb1jfcTpM64z" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="新增" />
@@ -91,30 +96,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.18.0" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.20.19" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Project/JS/unit-test-js&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Project\JS\unit-test-js" />
       <recent name="C:\Users\keyilan\Desktop\工作学习报告\自定义工具库\JS_unitTestTool\out" />
       <recent name="C:\Users\keyilan\Desktop\工作学习报告\自定义工具库\JS_unitTestTool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Project\JS\unit-test-js\README" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -129,6 +128,8 @@
       <workItem from="1629343453261" duration="3973000" />
       <workItem from="1629425471296" duration="780000" />
       <workItem from="1629469882175" duration="1269000" />
+      <workItem from="1669466821989" duration="2101000" />
+      <workItem from="1669469095847" duration="2769000" />
     </task>
     <task id="LOCAL-00001" summary="feature - UnitTest JS 单元测试工具 V1.1.0 版本, 新增区别于 ES6 和 CommonJS 标准的信息输出样式功能, 新增单元测试结果展示功能, 新增返回失败测试案例信息列表功能">
       <created>1629346202945</created>
@@ -165,7 +166,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

@@ -1,0 +1,13 @@
+{
+  "name": "ks_unit_test_esm",
+  "version": "1.0.0",
+  "description": "A minimalist JS unit testing tool, Follow the ES Module specification",
+  "main": "main.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/KindllySatan/unit-test-esm.git"
+  },
+  "author": "KindllySatan",
+  "license": "AGPL-3.0"
+}
