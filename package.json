@@ -1,6 +1,6 @@
 {
   "name": "ks_unit_test_esm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimalist JS unit testing tool, Follow the ES Module specification",
   "main": "main.js",
   "type": "module",
