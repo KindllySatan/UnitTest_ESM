@@ -3,7 +3,7 @@
 如果你想要一款轻量级的 `JavaScript` 单元测试插件, 那就直接使用 `UnitTest` 来对自己的 `JavaSript` 代码进行单元测试吧。放心，`UnitTest` 核心仅仅只有 `3KB` 的大小，完全不用担心引入 `UnitTest` 对自己项目的性能造成影响。
 
 该项目工程遵循 ESM 规范, UnitTest CMJ 工程可见: 
-- GitHub: [UnitTest CMJ](https://github.com/KindllySatan/unit-test_cmj)
+- GitHub: [UnitTest CMJ](https://github.com/KindllySatan/UnitTest_CMJ)
 - Gitee: [UnitTest CMJ](https://gitee.com/KindllySatan/unit-test-cmj)
 
 ## 安装

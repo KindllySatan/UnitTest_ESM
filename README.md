@@ -5,7 +5,7 @@ Then use `UnitTest` directly to unit test your `JavaSript` code. Rest assured th
 
 
 The project follows the ESM specification, and the *UnitTest CMJ* project can be seen: 
- - GitHub: [UnitTest CMJ](https://github.com/KindllySatan/unit-test_cmj)
+ - GitHub: [UnitTest CMJ](https://github.com/KindllySatan/UnitTest_CMJ)
  - Gitee: [UnitTest CMJ](https://gitee.com/KindllySatan/unit-test-cmj)
 
 ## Install
